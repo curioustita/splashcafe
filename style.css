@@ -76,24 +76,24 @@ img {
     background-size: cover;
     background-position: center top;
 }
-#home {
+home {
     background-image: url(https://github.com/curioustita/splashcafe/blob/main/images/IMG_2583.jpg?raw=true);
     background-color: rgba(255, 255, 255, 0.5);
     background-blend-mode: lighten;
     min-height: 100vh;
 }
-#home .page-title {
+home .page-title {
     text-transform: none;
 }
 /*NEWS*/
-#news {
+news {
     background-image: url(../images/IMG_2596.jpg);
     background-color: rgba(255, 255, 255, 0.5);
     background-blend-mode: lighten;
     height: 300px;
     margin-bottom: 40px;
 }
-#news .page-title {
+news .page-title {
     text-align: center;
 }
 /*FOOTER*/
@@ -274,7 +274,7 @@ aside p {
     }
 }
 /*MENU*/
-#menu {
+menu {
     background-image: url(../images/IMG_2584.jpg);
     background-color: rgba(255, 255, 255, 0.5);
     background-blend-mode: lighten;
@@ -300,7 +300,7 @@ aside p {
     margin-top: 6%;
     margin-bottom: 50px;
 }
-#contact {
+contact {
     background-image: url(../images/IMG_2570.JPG);
     background-color: rgba(255, 255, 255, 0.5);
     background-blend-mode: lighten;
